@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessagerService</string>
+    <string name="server_receive">Server receive</string>
+    <string name="messenger_process">messenger.process</string>
+</resources>
